@@ -1,0 +1,13 @@
+account log:
+ignored: could not convert string to float: previous balance
+data...proccessed
+ignored: could not convert string to float: debts
+data...proccessed
+data...proccessed
+data...proccessed
+ignored: could not convert string to float: credit
+data...proccessed
+data...proccessed
+ignored: could not convert string to float: finance charge/late fees
+data...proccessed
+data...proccessed

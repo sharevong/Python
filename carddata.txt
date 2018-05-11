@@ -1,0 +1,12 @@
+previous balance
+25
+debts
+21.64
+541.24
+25
+credit
+-25
+-541.24
+finance charge/late fees
+7.30
+5
