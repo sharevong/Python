@@ -1,3 +1,3 @@
 # Python
-core python programming
-Python核心编程
+core python programming<br>
+Python核心编程(第二版)
